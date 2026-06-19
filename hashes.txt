@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche sin ti
+
+This log tracks the cryptographic history and versioning for the song **Noche sin ti** (noche-sin-ti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:32:59.604265 | `v1` | `24c059fb977b936af99853d5db36d7693b8df893dbc5c002804d644717cf221c` | `da55f14ab3df9cec3fe9308461fdbfb01d334873ca9d0e64d746532b1bf76c0d` | `2026-06-19_noche-sin-ti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

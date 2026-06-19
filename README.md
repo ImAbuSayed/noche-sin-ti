@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Noche sin ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-ti/) |
+| **Get License** | [License this song: Noche sin ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `24c059fb977b936af99853d5db36d7693b8df893dbc5c002804d644717cf221c` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
